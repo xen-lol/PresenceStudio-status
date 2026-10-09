@@ -1,5 +1,5 @@
 {
-  "down": false,
-  "message": "Presence Studio is down, check discord for updates.",
+  "down": true,
+  "message": "Presence Studio is down. Check Discord for updates.",
   "discordUrl": "https://discord.gg/CUEXFjvFGx"
 }
